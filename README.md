@@ -34,11 +34,11 @@ The "Pizza Sales Dashboard" provides a dynamic and insightful view of pizza sale
 
 * Strategies for Improvement:
   
-         * Enhance the quality of Thai Chicken pizza to capitalize on its popularity.
+  * Enhance the quality of Thai Chicken pizza to capitalize on its popularity.
   
-         * Increase production of Classic Deluxe pizza to meet high demand.
+  * Increase production of Classic Deluxe pizza to meet high demand.
   
-         * Consider discontinuing The Brie Carre Pizza due to poor sales performance.
+  * Consider discontinuing The Brie Carre Pizza due to poor sales performance.
   
 **Learnings from the Project**
 
